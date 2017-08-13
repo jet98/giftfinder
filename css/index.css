@@ -1,0 +1,207 @@
+#header{
+	border-bottom: 1px solid black;
+	background-color: #e6e6ff;
+	width: 100%;
+}
+
+a:link, a:visited, a:active{
+	color: #FF0000;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: black;
+}
+
+#homelogo{
+		width: 25%;
+		float: left;
+}
+
+#home-logout-button, #user-home-link{
+	display: none;
+}
+
+#search_div, #home-logout-button{
+	float: right;
+	padding-right: 10%;
+	padding-top: 0.5%;
+}
+
+#right_nav_bar{
+	width: 25%;
+	height: auto;
+	float: right;
+	padding-right:7%;
+}
+
+#user-table{
+	padding: 2em;
+	text-align: center;
+}
+
+.navbar-right{
+	text-align: left;
+	width: 25%;
+	position: absolute;
+}
+
+#display_user_name{
+	margin-left: 2em;
+}
+
+#main_body{
+	float: left;
+	width: 80%;
+	height: auto;
+	padding-left: 10%;
+}
+
+#search_groups{
+	clear: both;
+	padding-right: 50%;
+	height: auto;
+}
+
+.btn{
+	border: solid black 1px;
+}
+
+#table_well{
+	background: white;
+	width: 100%;
+}
+
+.login-btn, .register-btn{
+	width: 10em;
+}
+
+.list-group-item{
+	border: none;
+}
+
+.list-group-item-heading{
+	font-weight: bold;
+}
+
+#header_logo{
+	width: 40%;
+}
+
+#home-login-buttons, #feature_items{
+	padding-bottom: 5%;
+	width: 105%;
+}
+
+.login_error{
+	color: red;
+	display: none;
+}
+
+.user-modal{
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#profile_picture{
+	text-align: center;
+	width: 20%;
+	float: left;
+}
+
+#edit-profile-picture{
+	height: 10em;
+	width: 10em;
+	border-radius: 10%;
+}
+
+#edit_profile{
+	float: right;
+	margin-top: 5%;
+	width: 70%;
+}
+
+.select_option{
+	margin-top: 1%;
+}
+
+#user_info{
+	margin-top: 25%;
+}
+
+#users_profile{
+	width: 100%;
+	height: 10%;
+}
+
+#users_profile_image{
+	float: left;
+	padding-right: 3em;
+}
+
+#profile_info{
+	padding: 2em;
+}
+
+#users_profile_info{
+	padding: 2em;
+	float: left;
+	width: 97%;
+}
+
+#user-table-post{
+	width: 20%;
+}
+
+#user-table-comment{
+	width: 60%;
+}
+
+#file_to_upload{
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+
+#full_width{
+	width:100%;
+}
+
+#shopping_list{
+	width: 20%;
+	height: auto;
+	float: left;
+}
+
+#float_left{
+	float: left;
+}
+
+#float_right{
+	float: right;
+}
+
+#results_list{
+	margin-left: 20%;
+	width: 85%;
+}
+
+#item{
+	padding-bottom: 25px;
+}
+
+#shopping_image{
+	width: 100px;
+	height: auto;
+}
+
+.footer{
+	border-top: 1px solid black;
+	background-color: #e6e6ff;
+	clear: both;
+	padding: 10px;
+	padding-left: 100px;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
